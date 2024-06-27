@@ -17,7 +17,7 @@ exchangeform.onsubmit = function(e) {
      }
 
 
-     var data="The value in nis is "+result;
+     var data="The result is "+result;
         document.querySelector('.result').innerHTML=data;
 
 
